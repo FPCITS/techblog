@@ -11,49 +11,27 @@ This project is to demonstrate our ability in building a CMS-style blog site fol
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
-  - [Testing](#testing)
   - [Questions](#questions)
   - [License](#license)
     
     
 ## Installation
     
-  Follow these steps to install or run this application:
+Follow these steps to install and run this application:
 
  Step 1: Copy repository from GitHub onto your device <br>
  Step 2: Launch your terminal. <br>
- Step 3: Run npm install for the following dependencies in your CLI or terminal:<br>
-- Inquirer<br>
-- fs<br>
-- Util <br><br>
+ Step 3: Run npm install.
  Step 4: Navigate to the downloaded repository via your terminal<br>
- Step 5: Run node index
+ Step 5: Run npm start server
 
-      
-## Usage
 
- []() is a helpful video to follow: 
-
-  
-  ![image](./Develop/images/Walkthrough.gif)
-
+You may also navigate to the live app here: https://techblog-sara.herokuapp.com/
       
 ## Contribution
 
 You can contribute to this project by:
 - Submitting bugs and feature requests
-
-      
-## Testing
-
- Step 1: Copy repository from GitHub onto your device <br>
- Step 2: Launch your terminal. <br>
- Step 3: Run npm install for the following dependencies in your CLI or terminal:<br>
-- Inquirer<br>
-- fs<br>
-- Util <br><br>
- Step 4: Navigate to the downloaded repository via your terminal <br>
- Step 5: Run node index
       
 ## Questions
       
